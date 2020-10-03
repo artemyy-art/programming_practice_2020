@@ -1,4 +1,4 @@
 import turtle
-for i in range (360):
+for i in range (361):
     turtle.forward(i/10)
     turtle.left(5)
