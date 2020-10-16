@@ -1,3 +1,4 @@
+штсдгву ьферздщедши
 def func(x):
     if -5 <= x <= 5:
         return x * x
@@ -6,3 +7,5 @@ def func(x):
     else:
         return 2 * x
 print(func(int(input())))
+for i in range(-10,11):
+    p
